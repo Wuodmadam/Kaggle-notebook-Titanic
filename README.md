@@ -55,7 +55,7 @@ Understand the distribution of each variable:
 
 📸 *Visual Example:*
 
-
+![Age Distribution](https://github.com/Wuodmadam/Kaggle-notebook-Titanic/blob/master/imputed%20age%20shot.png)
 
 ---
 
@@ -69,7 +69,7 @@ Investigate relationships between pairs of features and survival.
 
 📸 *Visual Example:*
 
-
+![]()
 ```python
 sns.catplot(x='Pclass', hue='Survived', col='Embarked', data=df, kind='count')
 ```
