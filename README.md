@@ -98,7 +98,7 @@ Handled using visual and statistical techniques:
 
 📸 *Fare Outlier Plot:*
 
-
+![Outlier for fare](https://github.com/Wuodmadam/Kaggle-notebook-Titanic/blob/master/fare%20boxplot.png)
 
 ---
 
