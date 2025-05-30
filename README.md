@@ -1,4 +1,4 @@
-Thanks for your patience! Based on the notebook content, here’s a **well-structured `README.md`** tailored for a GitHub repo featuring your Titanic dataset EDA project.
+
 
 ---
 
@@ -160,4 +160,4 @@ MIT License
 
 ---
 
-Would you like me to generate some actual image files for the visuals, or include sample code cells for each visual section in this `README.md`?
+
