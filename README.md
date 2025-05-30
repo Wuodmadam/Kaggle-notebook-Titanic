@@ -69,7 +69,7 @@ Investigate relationships between pairs of features and survival.
 
 📸 *Visual Example:*
 
-![]()
+![survival vs Embarked](https://github.com/Wuodmadam/Kaggle-notebook-Titanic/blob/master/survival%20vs%20embarked%20histogram.png)
 ```python
 sns.catplot(x='Pclass', hue='Survived', col='Embarked', data=df, kind='count')
 ```
@@ -85,7 +85,7 @@ Explore how **multiple variables interact** in relation to survival:
 
 📸 *Example Output*:
 
-
+![age,Pclass and fare combined]()
 
 ---
 
