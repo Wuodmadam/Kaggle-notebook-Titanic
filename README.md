@@ -57,6 +57,8 @@ Understand the distribution of each variable:
 
 ![Age Distribution](https://github.com/Wuodmadam/Kaggle-notebook-Titanic/blob/master/imputed%20age%20shot.png)
 
+![Embarked distribution](https://github.com/Wuodmadam/Kaggle-notebook-Titanic/blob/master/embarked%20distribution.png)
+
 ---
 
 ### 3. 🔁 **Bivariate Analysis**
@@ -70,6 +72,8 @@ Investigate relationships between pairs of features and survival.
 📸 *Visual Example:*
 
 ![survival vs Embarked](https://github.com/Wuodmadam/Kaggle-notebook-Titanic/blob/master/survival%20vs%20embarked%20histogram.png)
+
+![]
 ```python
 sns.catplot(x='Pclass', hue='Survived', col='Embarked', data=df, kind='count')
 ```
