@@ -68,7 +68,7 @@ Investigate relationships between pairs of features and survival.
 * Survival vs Embarked
 
 📸 *Visual Example:*
-![Alt Text](imputed age shot.png)
+
 
 ```python
 sns.catplot(x='Pclass', hue='Survived', col='Embarked', data=df, kind='count')
@@ -85,7 +85,7 @@ Explore how **multiple variables interact** in relation to survival:
 
 📸 *Example Output*:
 
-![Multivariate Heatmap](graph for age against survival.png)
+
 
 ---
 
@@ -98,7 +98,7 @@ Handled using visual and statistical techniques:
 
 📸 *Fare Outlier Plot:*
 
-![Fare Boxplot](images/fare_boxplot.png)
+
 
 ---
 
