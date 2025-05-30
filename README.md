@@ -85,7 +85,7 @@ Explore how **multiple variables interact** in relation to survival:
 
 📸 *Example Output*:
 
-![age,Pclass and fare combined]()
+![age,Pclass and fare combined](https://github.com/Wuodmadam/Kaggle-notebook-Titanic/blob/master/pairplots%20for%20multivariate%20analysis.png)
 
 ---
 
