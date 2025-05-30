@@ -55,7 +55,7 @@ Understand the distribution of each variable:
 
 📸 *Visual Example:*
 
-![Age Distribution](imputed age shot.png)
+
 
 ---
 
